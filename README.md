@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a BSc Engineering graduate specializing in Computer Science and Engineering. I have a strong foundation in programming, algorithms, data structures, and software development, aiming to contribute to technology innovation.
 
 <!--
 **nuralammunshi/nuralammunshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
