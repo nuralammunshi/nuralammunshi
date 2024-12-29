@@ -1,19 +1,12 @@
-## Hi there  I am a BSc Engineering graduate specializing in Computer Science and Engineering. I have a strong foundation in programming, algorithms, data structures, and software development, aiming to contribute to technology innovation.
-<div style="overflow: hidden; white-space: nowrap; background: #f0f8ff; color: #333; padding: 10px; font-size: 18px; border: 2px solid #ddd; display: inline-block; animation: scroll 10s linear infinite;">
-  Welcome to the Web Design and Development Accounts Repository! 🚀 Learn, Create, and Collaborate.
-</div>
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**nuralammunshi/nuralammunshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi there! I'm **Nur Alam**, a **BSc Engineering graduate** specializing in **Computer Science and Engineering**. I have a strong foundation in **programming**, **algorithms**, **data structures**, and **software development**. I am passionate about using technology to drive innovation and create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few things you should know about me:
+
+- **Name**: Nur Alam
+- **Degree**: BSc in Computer Science and Engineering
+- **Location**: Maniknogor, Dhaka
+- **Email**: [nuralamp919@gmail.com](mailto:nuralamp919@gmail.com)
