@@ -10,3 +10,12 @@ Here are a few things you should know about me:
 - **Degree**: BSc in Computer Science and Engineering
 - **Location**: Maniknogor, Dhaka
 - **Email**: [nuralamp919@gmail.com](mailto:nuralamp919@gmail.com)
+
+## Education
+
+- **Bachelor of Science in Engineering (BSc)** – **Computer Science and Engineering**
+  - **University**: [National University, Bangladesh]
+  - **Graduation Year**: [4 Year]
+  - **Key Courses**: Algorithms, Data Structures, Software Engineering, Computer Networks, Artificial Intelligence, Machine Learning
+
+---
