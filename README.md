@@ -31,7 +31,7 @@ Hi there! I'm **Nur Alam**, a dedicated and passionate **Computer Science and En
 
 ### ✅ Web Application Development with Python – *Level 4 (NSDA Certified, Running)*  
 - **Duration**: 360 hours  
-- **Focus**: Python, Django/Flask, REST APIs, Database Integration, MVC Architecture
+- **Focus**: Python, Django, REST APIs, Database Integration, MVC Architecture
 
 ---
 
