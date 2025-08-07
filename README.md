@@ -1,31 +1,30 @@
 # Hi there 👋 I'm Nur Alam — welcome to my GitHub profile!
 
+<!-- Typing SVG Animation -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F57F&width=500&lines=🤩+I+am+a+Web+Designer;🤩+I+am+a+Web+Developer;🤩+I+am+a+Full+Stack+Developer;🤩+Love+Coding+and+Designing;🤩+Love+Teaching+Others;💪+Hard+Worker" />
 </p>
+
 
 ---
 
 ## 🧑‍💻 About Me
 
 Hi there! I'm **Nur Alam**, a dedicated and passionate **Computer Science and Engineering** student. With a strong academic foundation and hands-on experience, I strive to develop efficient, innovative, and user-friendly software solutions. I'm particularly interested in **web development** and **backend programming** using modern technologies.
+<!-- Profile View Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nuralammunshi&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" />
+</p>
+
 
 ---
 
-## 📌 Quick Facts
-
-- **Name**: Nur Alam  
-- **Degree**: BSc in Computer Science and Engineering *(Ongoing)*  
-- **Location**: Maniknogor, Dhaka, Bangladesh  
-- **Email**: [nuralamp919@gmail.com](mailto:nuralamp919@gmail.com)
-
----
 
 ## 🎓 Education
 
 - **Bachelor of Science in Engineering (BSc)** – *Computer Science and Engineering*  
   - **Institution**: National University, Bangladesh  
-  - **Status**: Currently Studying (4th Year)
+  - **Status**: Currently Studying (2th Year)
 
 ---
 
@@ -43,7 +42,7 @@ Hi there! I'm **Nur Alam**, a dedicated and passionate **Computer Science and En
 
 ## 💻 Tech Stack
 
-<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Bʟᴏɢs</h2> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -70,6 +69,55 @@ Hi there! I'm **Nur Alam**, a dedicated and passionate **Computer Science and En
 
 
 ---
+<br><br>
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>🚀 GitHub Stats</strong></h3>
+      <a href="https://github.com/nuralammunshi">
+        <img src="https://github-readme-stats.vercel.app/api?username=nuralammunshi&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>🔥 Streak Stats</strong></h3>
+      <a href="https://github.com/nuralammunshi">
+        <img src="https://streak-stats.demolab.com?user=nuralammunshi&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <h3><strong>📌 Pinned Project</strong></h3>
+      <a href="https://github.com/nuralammunshi/your-project-repo-name">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nuralammunshi&repo=your-project-repo-name&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Pinned Repo" />
+      </a>
+    </td>
+    <td align="center">
+      <h3><strong>🌟 Top Contributions</strong></h3>
+      <a href="https://github.com/nuralammunshi">
+        <img src="https://github-contributor-stats.vercel.app/api?username=nuralammunshi&limit=2&theme=nightowl&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Contribution Graph -->
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuralammunshi&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph">
+</div>
+
+<!-- Animation GIF or SVG -->
+
+
+
+
 
 ## 🌱 Currently Learning
 
