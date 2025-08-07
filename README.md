@@ -36,31 +36,7 @@ Hi there! I'm **Nur Alam**, a dedicated and passionate **Computer Science and En
 ---
 
 ## 💻 Tech Stack
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Expanding my expertise in Django for full-stack development.</li>
-  <li>Deepening my understanding of Python OOP concepts.</li>
-  <li>Enhancing my backend skills with Express and API development.</li>
-  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
-</ul>
-  
-<br />
-<br />
-<br />
+<img src="https://your-gif-url-here.gif" width="50" />
 
 
 - **Frontend**: HTML5, CSS3, Bootstrap, JavaScript  
