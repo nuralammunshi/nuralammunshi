@@ -135,8 +135,23 @@ Check it out and consider subscribing 👉 [**Nur Alam Coding World**](https://w
 ---
 
 ## 📫 Let's Connect
+I'm always open to collaboration, networking, or discussing exciting tech ideas.
+Feel free to reach out via email or any of the platforms below!
 
-I'm always open to collaboration, networking, or discussing exciting tech ideas.  
-Feel free to reach out via [email](mailto:nuralamp919@gmail.com)!
+📧 Email: nuralamp919@gmail.com
+
+📘 Facebook: https://facebook.com/nur.alam.munshi.2024
+
+💬 WhatsApp: https://wa.me/88015165485336 
+
+📲 Telegram: https://t.me/nuralam111231
+
+🔗 LinkedIn: https://linkedin.com/in/nuralammunshi
+
+🎨 Fiverr: your-correct-fiverr-link-here
+
+
+
+
 
 ---
