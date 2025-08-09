@@ -148,7 +148,7 @@ Feel free to reach out via email or any of the platforms below!
 
 🔗 LinkedIn: https://linkedin.com/in/nuralammunshi
 
-🎨 Fiverr: your-correct-fiverr-link-here
+
 
 
 
